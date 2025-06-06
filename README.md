@@ -14,7 +14,7 @@ I am to talk about the source of the data here. Be it google, online, cloud, pre
 
 ### Tools Used 
 List out the tols i used in carrying out my analysis and the purpose they serve. E.g 
-- MS Excel for Data cleaning (Download here-https://www.microsoft.com/en-us/microsoft-365/excel)
+- MS Excel for Data cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
   
    -For Data collection
    -For Data cleaning
